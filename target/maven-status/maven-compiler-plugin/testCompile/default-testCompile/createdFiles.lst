@@ -1,0 +1,5 @@
+tests/SearchTest.class
+tests/BaseTest.class
+pages/SearchResultPage.class
+pages/SearchPage.class
+pages/BasePage.class
